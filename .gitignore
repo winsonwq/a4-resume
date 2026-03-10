@@ -1,0 +1,10 @@
+.DS_Store
+.agents/
+.agent/
+_agents/
+_agent/
+node_modules/
+dist/
+build/
+*.pdf
+*.log
